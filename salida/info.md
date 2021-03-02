@@ -1,0 +1,2 @@
+// Reconstruir paquetes
+   npm install
